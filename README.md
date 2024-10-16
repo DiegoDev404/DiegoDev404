@@ -22,14 +22,10 @@ I am a passionate developer focused on creating efficient and scalable solutions
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
 
-# Mi Proyecto
-
-## 📊 Mis Estadísticas de GitHub
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-## Conéctate conmigo:
-[LinkedIn](tu_linkedin) | [GitHub](tu_github)
+
 
 
