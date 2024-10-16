@@ -12,10 +12,10 @@ Constantly exploring new technologies and enhancing my skill set to stay ahead i
 ---
 
 ## 🔧 Technologies I use:
-🐍 Python, Django, FastAPI, Odoo ERP
-🖥️ Docker
-🗄️ PostgreSQL, MongoDB
-☁️ AWS
+- 🐍 Python, Django, FastAPI, Odoo
+- 🖥️ Docker
+- 🗄️ PostgreSQL, MongoDB
+- ☁️ AWS
 
 ---
 
