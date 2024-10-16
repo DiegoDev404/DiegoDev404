@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes y escalables. Co
 ---
 
 ## 🔧 Tecnologías que utilizo:
-- 🐍 Python, Django, FastAPI
+- 🐍 Python, Django, FastAPI, Odoo ERP
 - 🖥️ Docker
 - 🗄️ PostgreSQL, MongoDB
 - ☁️ AWS, GCP
