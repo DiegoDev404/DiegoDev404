@@ -1,22 +1,24 @@
-# ¡Hola! 👋 Soy Diego
+## Hi! 👋 I'm Diego
 
-Soy un desarrollador apasionado por crear soluciones eficientes y escalables. Con 3 años de experiencia. Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
+I am a passionate developer focused on creating efficient and scalable solutions. I am always learning new technologies and improving my skills.
 
----
-
-## 🔧 Tecnologías que utilizo:
-- 🐍 Python, Django, FastAPI, Odoo ERP
-- 🖥️ Docker
-- 🗄️ PostgreSQL, MongoDB
-- ☁️ AWS, GCP
+## 3+ Years of experience
 
 ---
 
-## 📊 Mis estadísticas de GitHub:
+## 🔧 Technologies I use:
+🐍 Python, Django, FastAPI, Odoo ERP
+🖥️ Docker
+🗄️ PostgreSQL, MongoDB
+☁️ AWS
+
+---
+
+## 📊 My GitHub Stats:
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=DiegoDev404&show_icons=true&theme=radical)
 
 ---
 
-## Conéctate conmigo:
+## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
 
