@@ -12,7 +12,6 @@ Constantly exploring new technologies and enhancing my skill set to stay ahead i
 ---
 
 ## 🔧 Technologies I use:
-
 🐍 Python, Django, FastAPI, Odoo ERP
 🖥️ Docker
 🗄️ PostgreSQL, MongoDB
@@ -27,6 +26,8 @@ Constantly exploring new technologies and enhancing my skill set to stay ahead i
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
+
+---
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
