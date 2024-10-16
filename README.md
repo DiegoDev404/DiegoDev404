@@ -2,7 +2,7 @@
 
 I am a passionate developer focused on creating efficient and scalable solutions. I am always learning new technologies and improving my skills.
 
-## 3+ Years of experience
+3+ Years of experience
 
 ---
 
