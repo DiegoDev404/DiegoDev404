@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Diego
 
-<!--
-**DiegoDev404/DiegoDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por crear soluciones eficientes y escalables. Con 3 años de experiencia. Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que utilizo:
+- 🐍 Python, Django, FastAPI
+- 🖥️ Docker
+- 🗄️ PostgreSQL, MongoDB
+- ☁️ AWS, GCP
+
+---
+
+## 📊 Mis estadísticas de GitHub:
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=DiegoDev404&show_icons=true&theme=radical)
+
+---
+
+## Conéctate conmigo:
+- [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
+
