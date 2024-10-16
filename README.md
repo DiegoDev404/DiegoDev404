@@ -1,5 +1,7 @@
 ## Hi! 👋 I'm Diego
 
+- [d](https://img.shields.io/badge/any_text-you_like-blue)
+
 I am a passionate developer focused on creating efficient and scalable solutions. I am always learning new technologies and improving my skills.
 
 ## 3+ Years of experience
