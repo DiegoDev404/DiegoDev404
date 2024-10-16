@@ -1,12 +1,18 @@
-## Hi! 👋 I'm Diego
+## Hi! 👋 I'm Diego Hernández
 
-I am a passionate developer focused on creating efficient and scalable solutions. I am always learning new technologies and improving my skills.
+🌟 Passionate Software Developer dedicated to crafting efficient and scalable solutions. 
+Constantly exploring new technologies and enhancing my skill set to stay ahead in the fast-paced tech world.
 
-3+ Years of experience
+---
+
+## 🚀 Experience
+
+3+ Years of experience in the software development industry, specializing in backend development and system integrations.
 
 ---
 
 ## 🔧 Technologies I use:
+
 🐍 Python, Django, FastAPI, Odoo ERP
 🖥️ Docker
 🗄️ PostgreSQL, MongoDB
@@ -23,8 +29,7 @@ I am a passionate developer focused on creating efficient and scalable solutions
 - [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+
 
 
 
