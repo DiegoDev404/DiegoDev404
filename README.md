@@ -7,7 +7,7 @@ Constantly exploring new technologies and enhancing my skill set to stay ahead i
 
 ## 🚀 Experience
 
-3+ Years of experience in the software development industry, specializing in backend development and system integrations.
+4+ Years of experience in the software development industry, specializing in backend development and system integrations.
 
 ---
 
