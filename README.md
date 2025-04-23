@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Diego Hernández
 
-🌟 Passionate Software Developer dedicated to crafting efficient and scalable solutions. 
+🌟 Passionate Software Engineer dedicated to crafting efficient and scalable solutions. 
 Constantly exploring new technologies and enhancing my skill set to stay ahead in the fast-paced tech world.
 
 ---
