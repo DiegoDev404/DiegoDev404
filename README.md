@@ -20,7 +20,7 @@ Constantly exploring new technologies and enhancing my skill set to stay ahead i
 ---
 
 ## 📊 My GitHub Stats:
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=DiegoDev404&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=dhluna&show_icons=true&theme=radical)
 
 ---
 
